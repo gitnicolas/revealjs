@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/lib/font/league-gothic/league-gothic.css" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lib/font/open-sans/open-sans.css" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lib/font/pt-sans/pt-sans.css" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lib/font/roboto/roboto.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/icon/icon.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/icon/material-icons.css" charset="UTF-8" />
   </component>
 </project>
