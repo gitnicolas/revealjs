@@ -2,13 +2,13 @@
 	font-family: 'Material Icons';
 	font-style: normal;
 	font-weight: normal;
-	src: url(2materialicons-regular.eot);
+	src: url(materialicons-regular.eot);
 	src: local('Material Icons'), local('MaterialIcons-Regular'),
-	url('2materialicons-regular.eot?#iefix') format('embedded-opentype'),
-	url(2materialicons-regular.woff2) format('woff2'),
-	url(2materialicons-regular.woff) format('woff'),
-	url(2materialicons-regular.ttf) format('truetype'),
-	url('2materialicons-regular.svg#MaterialIcons-Regular') format('svg');
+	url('materialicons-regular.eot?#iefix') format('embedded-opentype'),
+	url(materialicons-regular.woff2) format('woff2'),
+	url(materialicons-regular.woff) format('woff'),
+	url(materialicons-regular.ttf) format('truetype'),
+	url('materialicons-regular.svg#MaterialIcons-Regular') format('svg');
 }
 
 i {
